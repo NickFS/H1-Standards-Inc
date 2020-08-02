@@ -2,6 +2,6 @@
 
 Horeson is a performance-driven online marketing agency. 
 
-![my screenshot](/images/Horiseon-1)
+![my screenshot](./assets/css/images/Horiseon-1)
 
-![my screenshot](/images/Horiseon-2)
+![my screenshot](./assets/css/images/Horiseon-2)
