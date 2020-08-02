@@ -47,6 +47,7 @@ p {
     font-size: 16px;
 }
 
+/* HERO/JUMBOTRON STYLES START */
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +56,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* HERO/JUMBOTRON STYLES END */
 
 .float-left {
     float: left;
@@ -72,6 +74,7 @@ p {
     margin-left: 20px;
 }
 
+/* BENEFITS STYLES START */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -82,6 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+/* BENEFITS STYLES END */
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -131,6 +135,7 @@ p {
     max-width: 150px;
 }
 
+/* SEARCH OPTIMIZATION STYLES START */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -139,7 +144,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* SEARCH OPTIMIZATION STYLES END */
 
+/* ONLINE REPUTATION STYLES START */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -148,7 +155,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* ONLINE REPUTATION STYLES END */
 
+/* SOCIAL MEDIA MARKETING STYLES START */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -157,6 +166,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* SOCIAL MEDIA MARKETING STYLES END */
 
 .search-engine-optimization img {
     max-height: 200px;
