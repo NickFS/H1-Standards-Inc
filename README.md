@@ -2,6 +2,6 @@
 
 Horeson is a performance-driven online marketing agency. 
 
-![my screenshot](./assets/css/images/Horiseon-1)
+![my screenshot](https://github.com/NickFS/H1-Standards-Inc/blob/master/Develop/assets/images/Horiseon-1.PNG)
 
-![my screenshot](./assets/css/images/Horiseon-2)
+![my screenshot](https://github.com/NickFS/H1-Standards-Inc/blob/master/Develop/assets/images/Horiseon-2.PNG)
