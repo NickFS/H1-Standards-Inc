@@ -1,4 +1,4 @@
-# H1-Standards-Inc Documentation
+# Standards-Inc Documentation
 
 Horeson is a performance-driven online marketing agency. We’ve been in business for over 20 years and between all our team members, we have more than 30 years experience in the search marketing industry.
 
@@ -7,6 +7,6 @@ Horeson is a performance-driven online marketing agency. We’ve been in busines
 ![my screenshot](https://github.com/NickFS/H1-Standards-Inc/blob/master/Develop/assets/images/Horiseon-2.PNG)
 
 
-## H2 Dependencies
+## Dependencies
 * HTML5 and CSS
 
