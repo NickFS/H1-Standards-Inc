@@ -7,10 +7,10 @@ Horeson is a performance-driven online marketing agency. We’ve been in busines
 ![my screenshot](https://github.com/NickFS/H1-Standards-Inc/blob/master/assets/images/Horiseon-2.PNG)
 
 
-## Dependencies
+## Made with:
 * HTML5 and CSS
 
-## Application Link 
+## Application Link [I'm an inline-style link with title](https://nickfs.github.io/H1-Standards-Inc/"H1-Standards-Inc")
 
 
 
